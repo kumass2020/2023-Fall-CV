@@ -1,37 +1,37 @@
-{% assign projects = site.data.data.projects %}
-{% if projects %}
+{% assign certificates = site.data.data.certificates %}
+{% if certificates %}
 <section class="section projects-section">
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fas fa-briefcase fa-stack-1x fa-inverse"></i>
     </span>
-    {{ projects.title }}
+    {{ certificates.title }}
   </h2>
 
-  {% if projects.intro %}
+  {% if certificates.intro %}
   <div class="intro">
-      <p>{{ projects.intro }}</p>
+      <p>{{ certificates.intro }}</p>
   </div><!--//intro-->
   {% endif %}
 
-  {% for project in projects.info %}
+  {% for certificate in certificates.info %}
   <div class="item">
 
     <div class="meta">
 
       <div class="upper-row">
-        <h3 class="project-title">{{ project.role }}</h3>
-        <div class="time">{{ project.time }}</div>
+        <h3 class="project-title">{{ certificate.role }}</h3>
+        <div class="time">{{ certificate.time }}</div>
       </div><!--//upper-row-->
 
-      <div class="company">{{ project.company }}</div>
+      <div class="company">{{ certificate.company }}</div>
 
     </div><!--//meta-->
 
-    {% if project.details %}
+    {% if certificate.details %}
     <div class="details">
-      {{ project.details | markdownify }}
+      {{ certificate.details | markdownify }}
     </div><!--//details-->
     {% endif %}
 

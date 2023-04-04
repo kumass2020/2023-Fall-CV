@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: JiHwan Moon
     # tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile2.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: kumass2021@gmail.com
@@ -32,9 +32,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      안녕하세요. 저는 가천대학교 컴퓨터공확과에 재학중인 문지환입니다. 
-      저는 학부 시절 가천대학교 인공지능기술원에서 연합학습과 MLOps, 에너지 솔루션, 디지털 트윈 등을 연구해왔습니다.
-      2023년 8월 졸업 예정으로 인공지능대학원 진학을 목표로 하고 있습니다.
+      저는 가천대학교 컴퓨터공학과에 재학중인 문지환입니다. 
+      학부 시절 가천대학교 인공지능기술원에서 연합학습과 MLOps, 에너지 솔루션, 디지털 트윈 등을 연구해왔습니다.
+      최근에는 강화학습에도 관심을 가지고 있습니다.
+      저는 2023년 8월 학사 졸업 예정으로 인공지능대학원 진학을 목표로 하고 있습니다.
       - GPA: 4.12 / 4.5
       - English: TEPS 310
 
@@ -49,8 +50,8 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: 단과대학 수석 입학
-        time: 2019. 3.
+      - role: 앱 개발 동아리 Applay 활동
+        time: 2020. 3. - 2021. 2.
         company: Gachon University
         details: |
 
@@ -59,22 +60,65 @@ experiences:
         company: GIAI (Gachon Institute of Artificial Intelligence)
         details: |
 
-      - role: 성적우수 장학금 수여
-        time: 2021. 9.
+      - role: 보안 학술 동아리 Pay1oad 활동
+        time: 2021. 3. - 2023. 2.
         company: Gachon University
-        details: |
+        details: |      
 
-      - role: 산학융합형 학부 인턴십
+      - role: 산학융합형 학부 인턴쉽
         time: 2021. 9. - 2021. 12.
         company: Gachon University & KEICO
         details: |
 
-      - role: 성적우수 장학금 수여
+      - role: 대학정보보호동아리연합회 KUCIS 활동
+        time: 2022. 3. - 2023. 2.
+        company: KISA (한국인터넷진흥원)
+        details: |     
+     
+      - role: ITRC 인재양성대전 2022 Exhibitor
+        time: 2022. 4.
+        company: 과학기술정보통신부
+        details: |
+
+scholarships:
+    title: Scholarships
+    info:
+      - role: 학과 수석 입학 장학금
+        time: 2019. 3.
+        company: Gachon University
+        details: |
+
+      - role: 단과대학 수석 입학 장학금
+        time: 2019. 3. - 2020. 2.
+        company: Gachon University
+        details: |
+      
+      - role: 성적우수 장학금
+        time: 2021. 9.
+        company: Gachon University
+        details: |
+
+      - role: 산학융합형 학부 인턴쉽 장학금
+        time: 2022. 1.
+        company: Gachon University
+        details: |
+      
+      - role: 학술지원 장학금
+        time: 2022. 8.
+        company: Gachon University
+        details: |
+
+      - role: 성적우수 장학금
         time: 2022. 9.
         company: Gachon University
         details: |
 
-      - role: 성적우수 장학금 수여
+      - role: 학부생 연구형 인턴쉽 장학금
+        time: 2023. 2.
+        company: Gachon University
+        details: |
+
+      - role: 성적우수 장학금
         time: 2023. 3.
         company: Gachon University
         details: |
@@ -84,7 +128,7 @@ publications:
     intro: |
 
     papers:
-      - title: "에너지 절감 솔루션 구현을 위한 효과적인 디지털 트윈 기술 활용 방안 연구 : 모니터링 모듈 설계를 중심으로"
+      - title: "에너지 절감 솔루션 구현을 위한 <br>효과적인 디지털 트윈 기술 활용 방안 연구 : 모니터링 모듈 설계를 중심으로"
         link: "https://www.eiric.or.kr/literature/ser_view.php?SnxGubun=INME&mode=total&searchCate=literature&literature=Y&more=Y&research=Y&pg=5&gu=INME020E1&cmd=qryview&SnxIndxNum=237417&q1_yy=2021&q1_mm=04&rownum=50&totalCnt=255&q1_t=7J206rCV7Jyk&listUrl=L2xpdGVyYXR1cmUvcmVzdWx0LnBocD9TbnhHdWJ1bj1JTk1FJm1vZGU9dG90YWwmc2VhcmNoQ2F0ZT1saXRlcmF0dXJlJmxpdGVyYXR1cmU9WSZxMT0lQzAlQ0MlQjAlQUQlQzAlQjEmbW9yZT1ZJmYxPU1OJnJlc2VhcmNoPVkmcGc9NQ==&f1=MN&q1=%C0%CC%B0%AD%C0%B1"
         authors: 문지환, 이주희, 이강윤
         conference: 인터넷정보학회 춘계학술발표대회, 2021
@@ -94,12 +138,12 @@ publications:
         authors: 문지환, 이강윤
         conference: "인터넷정보학화 춘계학술발표대회, 2022"
 
-      - title: "(제출상태) FLScalize: Federated Learning Lifecycle Management Platform"
+      - title: "FLScalize: Federated Learning Lifecycle Management Platform (제출상태)"
         # link: "#"
         authors: Semo Yang, JiHwan Moon, Jinsoo Kim, Kwangkee Lee, KangYoon Lee
         conference: "IEEE Access"
 
-      - title: "(4월 제출예정) FedOps: A MLOps-based Platform of Federated Learning Services with Heterogeneity Awareness"
+      - title: "FedOps: A MLOps-based Platform of <br>Federated Learning Services with Heterogeneity Awareness (4월 제출예정)"
         # link: "#"
         authors: JiHwan Moon, Semo Yang, KangYoon Lee
         conference: "IEEE Access"
@@ -108,52 +152,102 @@ projects:
     title: Projects
     intro: >
       프로젝트와 스터디 관련 코드는 <a href="https://github.com/kumass2020/2023-Fall-Portfolio">저의 Github (링크)</a>
-      에 정리하였습니다.
+      에 정리하였습니다. (https://github.com/kumass2020/2023-Fall-Portfolio)
     assignments:
     info:
-      - role: 개방형 챗봇마켓플레이스를 위한 융합 대화형 커그너티브 헬스 어드바이저 플랫폼 구현 연구
-        time: 2019. 3.
-        company: Gachon University
+      - role: AI기반 비대면 문진 및 
+              <br>환자상태 자동 분류를 위한 스마트 사이니지 기술개발 
+        time: 2021. 01. - 2021. 12.
+        company: IITP (정보통신기획평가원)
         details: |
-      
-      - role: AI기반 비대면 문진 및 환자상태 자동 분류를 위한 스마트 사이니지 기술개발 
-        time: 2019. 3.
-        company: Gachon University
+
+      - role: |
+              개방형 챗봇마켓플레이스를 위한  
+              <br>융합 대화형 커그너티브 헬스 어드바이저 플랫폼 구현 연구
+        time: 2021. 01. - 2022. 02.
+        company: NRF (한국연구재단)
         details: |
       
       - role: 의료 빅데이터를 활용한 뇌질환 예측예방 기술개발 및 전문인력 양성 
-        time: 2019. 3.
-        company: Gachon University
+        time: 2022. 01. - 2022. 12.
+        company: IITP (정보통신기획평가원)
         details: |
       
       - role: 동적인 디바이스 환경에서 적응적 연합학습기술 개발
-        time: 2019. 3.
-        company: Gachon University
+        time: 2022. 01. - 2022. 12.
+        company: IITP (정보통신기획평가원), 티비스톰
+        details: |
+
+      - role: 비접촉 헬스데이터 기반의 
+              <br>지능형 생활환경 헬스어드바이저와 개인화된 연합학습 MLOps 플랫폼
+        time: 2022. 06. - 2023. 02.
+        company: NRF (한국연구재단)
+        details: |
+      
+      - role: 전기 에너지 사용예측 모델 기반 수요이전 추천 서비스
+        time: 2022. 06. - 2023. 02.
+        company: TIPA (중소기업기술정보진흥원)
+        details: |
+
+      - role: 연합학습 수명주기관리 기술개발
+        time: 2022. 07. - 2022. 12.
+        company: COMPA (과학기술일자리진흥원)
+        details: |
+
+      - role: 인공지능 기반 행동인식 조기위험 감지 알고리즘 개발
+        time: 2022. 07. - 2023. 06.
+        company: KHIDI (한국보건산업진흥원)
+        details: |
+
+      - role: 한국 인체특성을 반영한 3D 엔진 및 메디컬 트윈 프레임워크 개발
+        time: 2022. 07. - 2023. 06.
+        company: KHIDI (한국보건산업진흥원)
         details: |
 
 
+certificates:
+    title: Certificate
+    intro: 
+    assignments:
+    info:
+      - role: 워드프로세서 2급
+        time: 2010. 03.
+        company: 대한상공회의소
+        details: |
+
+      - role: 정보처리기능사
+        time: 2014. 08.
+        company: 한국산업인력공단
+        details: |
+
+      - role: JLPT (일본어능력시험) N3
+        time: 2021. 08.
+        company: 한국산업인력공단
+        details: |
+
+      - role: 인공지능활용분석 2급
+        time: 2022. 02.
+        company: KRDI (한국정보인재개발원)
+        details: |
+
+      
+
 
 oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    title: Software Copyright
+    # intro: >
+    #   You can list your open source software contributions in this
+    #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: TOU기반 전기요금 계산기
+        # link: "#"
+        tagline: "C-2021-021600"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: 연합학습 기반의 MLOps Simulation 플랫폼
+        # link: "#"
+        tagline: "C-2022-048543"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-test:
-    title: test
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">XR</a>
