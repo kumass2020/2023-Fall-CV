@@ -3,156 +3,135 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: JiHwan Moon
+    # tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: kumass2021@gmail.com
+    phone: 010-3600-4165
+    timezone: KST (Korea Standard Time)
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    # website: blog.webjeda.com #do not add http://
+    linkedin: moonjihwan
+    # xing: alandoe
+    github: kumass2020
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    # twitter: '@webjeda'
+    # stack-overflow: 20211370/hoho # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
-
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Native
-
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
-
-    interests:
-      title: Interests
-      info:
-        - item: Climbing
-          link:
-
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
-          link:
+    # pdf: http://www.africau.edu/images/default/sample.pdf
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      안녕하세요. 저는 가천대학교 컴퓨터공확과에 재학중인 문지환입니다. 
+      저는 학부 시절 가천대학교 인공지능기술원에서 연합학습과 MLOps, 에너지 솔루션, 디지털 트윈 등을 연구해왔습니다.
+      2023년 8월 졸업 예정으로 인공지능대학원 진학을 목표로 하고 있습니다.
+      - GPA: 4.12 / 4.5
+      - English: TEPS 310
+
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: BSc in Computer Engineering
+        university: Gachon University
+        time: 2019 - 2023
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: 단과대학 수석 입학
+        time: 2019. 3.
+        company: Gachon University
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+
+      - role: 연구원
+        time: 2020. 12. - 2023. 6.
+        company: GIAI (Gachon Institute of Artificial Intelligence)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+
+      - role: 성적우수 장학금 수여
+        time: 2021. 9.
+        company: Gachon University
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+
+      - role: 산학융합형 학부 인턴십
+        time: 2021. 9. - 2021. 12.
+        company: Gachon University & KEICO
+        details: |
+
+      - role: 성적우수 장학금 수여
+        time: 2022. 9.
+        company: Gachon University
+        details: |
+
+      - role: 성적우수 장학금 수여
+        time: 2023. 3.
+        company: Gachon University
+        details: |
+
+publications:
+    title: Publications & Conference Proceedings 
+    intro: |
+
+    papers:
+      - title: "에너지 절감 솔루션 구현을 위한 효과적인 디지털 트윈 기술 활용 방안 연구 : 모니터링 모듈 설계를 중심으로"
+        link: "https://www.eiric.or.kr/literature/ser_view.php?SnxGubun=INME&mode=total&searchCate=literature&literature=Y&more=Y&research=Y&pg=5&gu=INME020E1&cmd=qryview&SnxIndxNum=237417&q1_yy=2021&q1_mm=04&rownum=50&totalCnt=255&q1_t=7J206rCV7Jyk&listUrl=L2xpdGVyYXR1cmUvcmVzdWx0LnBocD9TbnhHdWJ1bj1JTk1FJm1vZGU9dG90YWwmc2VhcmNoQ2F0ZT1saXRlcmF0dXJlJmxpdGVyYXR1cmU9WSZxMT0lQzAlQ0MlQjAlQUQlQzAlQjEmbW9yZT1ZJmYxPU1OJnJlc2VhcmNoPVkmcGc9NQ==&f1=MN&q1=%C0%CC%B0%AD%C0%B1"
+        authors: 문지환, 이주희, 이강윤
+        conference: 인터넷정보학회 춘계학술발표대회, 2021
+
+      - title: "저전력 블루투스와 와이파이 하이브리드 통신을 활용한 재실 여부 관리 시스템 설계"
+        link: "https://www.eiric.or.kr/literature/ser_view.php?searchCate=literature&SnxGubun=INKO&mode=total&literature=Y&SnxGubun=INME&gu=INME020E2&cmd=qryview&SnxIndxNum=249919&q1_yy=2022&q1_mm=04&rownum=1&f1=MN&q1=%B9%AE%C1%F6%C8%AF&totalCnt=14&kci="
+        authors: 문지환, 이강윤
+        conference: "인터넷정보학화 춘계학술발표대회, 2022"
+
+      - title: "(제출상태) FLScalize: Federated Learning Lifecycle Management Platform"
+        # link: "#"
+        authors: Semo Yang, JiHwan Moon, Jinsoo Kim, Kwangkee Lee, KangYoon Lee
+        conference: "IEEE Access"
+
+      - title: "(4월 제출예정) FedOps: A MLOps-based Platform of Federated Learning Services with Heterogeneity Awareness"
+        # link: "#"
+        authors: JiHwan Moon, Semo Yang, KangYoon Lee
+        conference: "IEEE Access"
+
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      프로젝트와 스터디 관련 코드는 <a href="https://github.com/kumass2020/2023-Fall-Portfolio">저의 Github (링크)</a>
+      에 정리하였습니다.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    info:
+      - role: 개방형 챗봇마켓플레이스를 위한 융합 대화형 커그너티브 헬스 어드바이저 플랫폼 구현 연구
+        time: 2019. 3.
+        company: Gachon University
+        details: |
+      
+      - role: AI기반 비대면 문진 및 환자상태 자동 분류를 위한 스마트 사이니지 기술개발 
+        time: 2019. 3.
+        company: Gachon University
+        details: |
+      
+      - role: 의료 빅데이터를 활용한 뇌질환 예측예방 기술개발 및 전문인력 양성 
+        time: 2019. 3.
+        company: Gachon University
+        details: |
+      
+      - role: 동적인 디바이스 환경에서 적응적 연합학습기술 개발
+        time: 2019. 3.
+        company: Gachon University
+        details: |
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
     title: OSS Contributions
@@ -173,49 +152,8 @@ oss:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+test:
+    title: test
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">XR</a>
