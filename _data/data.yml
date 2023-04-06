@@ -248,6 +248,19 @@ oss:
         # link: "#"
         tagline: "C-2022-048543"
 
+skills:
+    title: Skills
+    intro: 
+    assignments:
+    info:
+      - role: MLOps
+        # time: 2010. 03.
+        # company: 대한상공회의소
+        details: |
+          저는 Kubernetes와 Cloud Computing에 관심이 있어 연구실에서 해당 환경을 구현 했습니다. 
+          JupyterHub를 사용해 각 연구원에게 독립된 머신러닝 개발환경을 제공하고, GPU를 동적 할당 하도록 만들었습니다.
+          또한, ArgoCD를 사용해 Git과 연동하여 코드를 관리하고, CI/CD를 구현했습니다.
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">XR</a>
