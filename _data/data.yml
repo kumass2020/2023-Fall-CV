@@ -37,7 +37,7 @@ career-profile:
       최근에는 강화학습에도 관심을 가지고 있습니다.
       저는 2023년 8월 학사 졸업 예정으로 인공지능대학원 진학을 목표로 하고 있습니다.
       - GPA: 4.12 / 4.5
-      - English: TEPS 310
+      - English: TEPS 358
 
 education:
     title: Education
@@ -259,7 +259,7 @@ skills:
         details: |
           저는 Kubernetes와 Cloud Computing에 관심이 있어 연구실에서 해당 환경을 구현 했습니다. 
           JupyterHub를 사용해 각 연구원에게 독립된 머신러닝 개발환경을 제공하고, GPU를 동적 할당 하도록 만들었습니다.
-          또한, ArgoCD를 사용해 Git과 연동하여 코드를 관리하고, CI/CD를 구현했습니다.
+          또한, ArgoCD, Airflow를 사용해 Git과 연동하여 코드를 관리하고, CI/CD를 구현했습니다.
 
 
 footer: >
