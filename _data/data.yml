@@ -137,12 +137,12 @@ publications:
         authors: 문지환, 이강윤
         conference: "인터넷정보학화 춘계학술발표대회, 2022"
 
-      - title: "FLScalize: Federated Learning Lifecycle Management Platform (제출상태)"
+      - title: "FLScalize: Federated Learning Lifecycle Management Platform (Accepted)"
         # link: "#"
         authors: Semo Yang, JiHwan Moon, Jinsoo Kim, Kwangkee Lee, KangYoon Lee
         conference: "IEEE Access"
 
-      - title: "FedOps: A MLOps-based Platform of <br>Federated Learning Services with Heterogeneity Awareness (제출상태)"
+      - title: "FedOps: A MLOps-based Platform of <br>Federated Learning Services with Heterogeneity Awareness (Submitted)"
         # link: "#"
         authors: JiHwan Moon, Semo Yang, KangYoon Lee
         conference: "IEEE Access"
