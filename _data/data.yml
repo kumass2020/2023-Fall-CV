@@ -137,8 +137,8 @@ publications:
         authors: 문지환, 이강윤
         conference: "인터넷정보학화 춘계학술발표대회, 2022"
 
-      - title: "FLScalize: Federated Learning Lifecycle Management Platform (Accepted)"
-        # link: "#"
+      - title: "FLScalize: Federated Learning Lifecycle Management Platform"
+        link: "https://ieeexplore.ieee.org/document/10122960"
         authors: Semo Yang, JiHwan Moon, Jinsoo Kim, Kwangkee Lee, KangYoon Lee
         conference: "IEEE Access"
 
